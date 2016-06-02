@@ -1,4 +1,4 @@
-# GreatCommandLineChallenge
+# The Great Command-Line Challenge
 
 This repository contains the sample data file for the Great Command-Line Challenge at Opensource.com. For more information, see:
 
